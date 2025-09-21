@@ -1,4 +1,4 @@
-![My Banner](https://github.com/ankush9004/Ankush-Tiwari/blob/main/banner.png?raw=true)
+![My Banner]([https://github.com/ankush9004/Ankush-Tiwari/blob/main/banner.png?raw=true](https://github.com/ankush9004/Ankush-Tiwari/blob/main/Banner.png?raw=true))
 
 # Hi there 👋, I'm Ankush Tiwari
 
