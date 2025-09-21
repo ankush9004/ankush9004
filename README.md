@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[URL_TO_YOUR_UPLOADED_HEADER_BANNER_IMAGE.png](https://github.com/ankush9004/Ankush-Tiwari/blob/main/Gemini_Generated_Image_aoo6llaoo6llaoo6.png?raw=true)" alt="My Tech Banner"/>
+  <img src="[[URL_TO_YOUR_UPLOADED_HEADER_BANNER_IMAGE.png](https://github.com/ankush9004/Ankush-Tiwari/blob/main/Banner.png)](https://github.com/ankush9004/Ankush-Tiwari/blob/main/Gemini_Generated_Image_aoo6llaoo6llaoo6.png?raw=true)" alt="My Tech Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
