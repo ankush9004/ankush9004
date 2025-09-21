@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/github_banner_sanskar.png" alt="Sanskar Yadav Banner" width="100%">
+  <img src="[https://github.com/yadav-sanskar/Yadav-Sanskar/blob/main/github_banner_sanskar.png](https://github.com/ankush9004/Ankush-Tiwari/blob/main/Banner.png?raw=true)" alt="Sanskar Yadav Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanskar Yadav</h1> 
