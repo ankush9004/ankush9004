@@ -3,7 +3,7 @@
   <img src="https://github.com/ankush9004/Ankush-Tiwari/blob/main/Banner.png?raw=true" alt="Ankush Tiwari Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sanskar Yadav</h1> 
+<h1 align="center">Hi 👋, I'm Ankush Tiwari </h1> 
 <h3 align="center">Building scalable apps with MERN, Flutter, and a touch of AI/ML. 😎</h3>
 <img src="animated_coding_sanskarr.gif" alt="Sanskar Yadav Coding" width="400" align="right">
 
