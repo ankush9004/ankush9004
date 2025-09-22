@@ -48,7 +48,10 @@
 </p>
 
 
-
+### My GitHub Stats:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankush9004&show_icons=true&locale=en&theme=tokyonight" alt="ankush9004" />
+</p>
 
 
 ### 🏆 Most Used Languages:
@@ -60,7 +63,4 @@
 
 <br>
 
-### My GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankush9004&show_icons=true&locale=en&theme=tokyonight" alt="ankush9004" />
-</p>
+
