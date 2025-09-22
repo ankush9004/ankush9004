@@ -22,13 +22,13 @@
 
 ### 🌍 **Connect with Me**
 <p align="center">
-<a href="https://www.linkedin.com/in/sanskar-yadav-721710229/" target="blank">
+<a href="https://www.linkedin.com/in/ankush-tiwari-a703a32a4/" target="blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" />
 </a>
 <a href="https://github.com/yadav-sanskar" target="blank">
   <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github" />
 </a>
-<a href="mailto:yadavsanskar4455@gmail.com" target="blank">
+<a href="mailto:tiwariankush.2003.31@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
 </p>
