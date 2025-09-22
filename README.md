@@ -1,9 +1,4 @@
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,python,flask,git" />
-  </a>
-</p>
+
 
 
 
