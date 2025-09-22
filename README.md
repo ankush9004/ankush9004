@@ -2,14 +2,6 @@
 
 
 
-<h3 align="left">My GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankush9004&show_icons=true&locale=en&theme=tokyonight" alt="ankush9004" />
-</p>
-
-
-
-
 <p align="center">
   <img src="URL_TO_YOUR_BANNER_IMAGE.png" alt="My Banner"/>
 </p>
