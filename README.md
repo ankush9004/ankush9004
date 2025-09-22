@@ -14,7 +14,7 @@
 ### About Me
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 - 💻 My skills include **Python, SQL, and Excel**
-- 📫 You can reach me at **ankush.tiwari@email.com**
+- 📫 You can reach me at **tiwariankush.2003.31@email.com**
 
 <br>
 
