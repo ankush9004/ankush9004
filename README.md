@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ankush9004/ankush9004/blob/main/Banner.png?raw=true" alt="Ankush Tiwari Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ankush9004/ankush9004/main/Banner.png" alt="Ankush Tiwari Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ankush Tiwari</h1>
